@@ -1,0 +1,2 @@
+# -Predictive-Analytics-for-Deeper-Insights-into-Newborn-Baby-Health-using-Machine-Learning
+• Utilizes machine learning to predict newborn health. • Attributes include Chest X-ray, BodyO2, BodyCO2, and sickness classification (0 or 1). • Objectives: Predict newborn sickness and identify influencing factors. • Methodology involves data cleaning, machine learning model development, and outcome interpretation
